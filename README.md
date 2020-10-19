@@ -22,7 +22,7 @@
 
 </div>
 
-## Installation
+## Installatio
 
 Material-UI is available as an [npm package](https://www.npmjs.com/package/@material-ui/core).
 
